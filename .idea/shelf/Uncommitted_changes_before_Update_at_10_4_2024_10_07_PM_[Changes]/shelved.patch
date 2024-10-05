@@ -1,0 +1,11 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+new file mode 100644
+--- /dev/null	(date 1728093970425)
++++ b/README.md	(date 1728093970425)
+@@ -0,0 +1,1 @@
++A project for a truck company in China that helps alter the truck driver when is their truck ready to go.
