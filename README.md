@@ -73,7 +73,7 @@ This project implements a **state management system** in Java. It handles differ
 1. **Adding Vehicle**  
    Press the top button on the right of the search bar.
    
-   ![Adding Vehicle Button](pic1.jpg)
+   ![Adding Vehicle Button](pic1.png)
 
 2. **Completed Vehicle**  
    Press the button next to the last one.
