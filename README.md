@@ -69,9 +69,13 @@ This project implements a **state management system** in Java. It handles differ
    git clone <repository-url>
 
 ## Domo
+
 1. **Adding Vehicle**  
-   press the top button on the right to the search bar
-![Diagram of State Transition](.res/drawable/pic1.png)
-2. **Completed Vehicle**
-   press the button that is right next the the last one
-![Diagram of State Transition](.res/drawable/pic2.png)
+   Press the top button on the right of the search bar.
+   
+   ![Adding Vehicle Button](./res/drawable/pic1.jpg)
+
+2. **Completed Vehicle**  
+   Press the button next to the last one.
+   
+   ![Completed Vehicle Button](./res/drawable/pic2.png)
